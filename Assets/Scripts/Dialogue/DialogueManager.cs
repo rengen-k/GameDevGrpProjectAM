@@ -64,11 +64,15 @@ public class DialogueManager : MonoBehaviour
         dialogueText = GameObject.Find("DialogueText").GetComponent<TextMeshProUGUI>();
 
         // Singleton
-        if (instance != null)
+        if (instance != null && instance != this)
         {
             Debug.LogWarning("More than one DialogueManager found");
+            Destroy(this.gameObject);
+        } 
+        else
+        {
+            instance = this;
         }
-        instance = this;
         talkPressed = false;
         
     }

@@ -129,7 +129,10 @@ https://freesound.org/s/445109/
 https://freesound.org/s/188384/
 - Level 19 rotation sound
 https://freesound.org/s/123253/
-
+- Character Model
+https://assetstore.unity.com/packages/3d/characters/humanoids/character-pack-lowpoly-free-221766
+- Character animations
+https://assetstore.unity.com/packages/3d/animations/basic-motions-free-154271#releases
 #### Scripts
 
 - Unity Object Fade by jhuthins

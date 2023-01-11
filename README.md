@@ -129,8 +129,10 @@ https://freesound.org/s/445109/
 https://freesound.org/s/188384/
 - Level 19 rotation sound
 https://freesound.org/s/123253/
-Dialogue Image
+- Dialogue Image
 https://www.planetminecraft.com/texture-pack/retro-nes-revived/
+- Voxel 3d Robot models
+https://maxparata.itch.io/voxel-mechas
 - Character Model
 https://assetstore.unity.com/packages/3d/characters/humanoids/character-pack-lowpoly-free-221766
 - Character Animation
